@@ -7,3 +7,6 @@ Other great educational material:
 
 Papers and more:
 - [Geometric foundations of Deep Learning](https://towardsdatascience.com/geometric-foundations-of-deep-learning-94cdd45b451d)
+
+Visualizations:
+- [Visualize gradient descent optimization algorithms in Tensorflow](https://github.com/Jaewan-Yun/optimizer-visualization)
