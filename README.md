@@ -12,3 +12,8 @@ Papers and more:
 
 Visualizations:
 - [Visualize gradient descent optimization algorithms in Tensorflow](https://github.com/Jaewan-Yun/optimizer-visualization)
+-
+
+Geometric Deep Learning
+- [Geometric Deep Learning course, by Michael Bronstein (Oxford/Twitter) • Joan Bruna (NYU) • Taco Cohen (Qualcomm) • Petar Veličković (DeepMind)](https://www.youtube.com/playlist?app=desktop&list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)
+
