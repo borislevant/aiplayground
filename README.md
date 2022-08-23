@@ -6,6 +6,7 @@ Other great educational material:
 - [DeepMinds Educational Resources](https://github.com/deepmind/educational)
 - [The most full read list of AI resources](https://aman.ai/read/)
 - [The most full watch list of AI resources](https://aman.ai/watch/)
+- [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes)
 
 Papers and more:
 - [Geometric foundations of Deep Learning](https://towardsdatascience.com/geometric-foundations-of-deep-learning-94cdd45b451d)
@@ -13,7 +14,7 @@ Papers and more:
 
 Visualizations:
 - [Visualize gradient descent optimization algorithms in Tensorflow](https://github.com/Jaewan-Yun/optimizer-visualization)
--
+- [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book)
 
 Geometric Deep Learning
 - [Geometric Deep Learning course, by Michael Bronstein (Oxford/Twitter) • Joan Bruna (NYU) • Taco Cohen (Qualcomm) • Petar Veličković (DeepMind)](https://www.youtube.com/playlist?app=desktop&list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)
