@@ -19,3 +19,6 @@ Visualizations:
 Geometric Deep Learning
 - [Geometric Deep Learning course, by Michael Bronstein (Oxford/Twitter) • Joan Bruna (NYU) • Taco Cohen (Qualcomm) • Petar Veličković (DeepMind)](https://www.youtube.com/playlist?app=desktop&list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)
 
+NLP
+- [Text Classification Using Python and Scikit-learn](https://dylancastillo-co.cdn.ampproject.org/c/s/dylancastillo.co/text-classification-using-python-and-scikit-learn/amp/)
+- 
