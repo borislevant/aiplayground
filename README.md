@@ -7,6 +7,7 @@ Other great educational material:
 - [The most full read list of AI resources](https://aman.ai/read/)
 - [The most full watch list of AI resources](https://aman.ai/watch/)
 - [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes)
+- [Deep Learning in Hebrew - book by Avraham Ravid](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew)
 
 Papers and more:
 - [Geometric foundations of Deep Learning](https://towardsdatascience.com/geometric-foundations-of-deep-learning-94cdd45b451d)
@@ -22,3 +23,5 @@ Geometric Deep Learning
 NLP
 - [Text Classification Using Python and Scikit-learn](https://dylancastillo-co.cdn.ampproject.org/c/s/dylancastillo.co/text-classification-using-python-and-scikit-learn/amp/)
 - 
+
+
