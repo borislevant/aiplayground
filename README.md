@@ -24,4 +24,5 @@ NLP
 - [Text Classification Using Python and Scikit-learn](https://dylancastillo-co.cdn.ampproject.org/c/s/dylancastillo.co/text-classification-using-python-and-scikit-learn/amp/)
 - 
 
-
+Datasets
+- [Machine learning repository of datasets, UCI](http://archive.ics.uci.edu/ml/datasets.php)
