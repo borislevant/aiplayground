@@ -8,6 +8,7 @@ Other great educational material:
 - [The most full watch list of AI resources](https://aman.ai/watch/)
 - [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes)
 - [Deep Learning in Hebrew - book by Avraham Ravid](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew)
+- [Understanding Deep Learning, by Simon J.D. Prince](https://udlbook.github.io/udlbook/)
 
 Papers and more:
 - [Geometric foundations of Deep Learning](https://towardsdatascience.com/geometric-foundations-of-deep-learning-94cdd45b451d)
