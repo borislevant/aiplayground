@@ -10,6 +10,7 @@ Other great educational material:
 - [Deep Learning in Hebrew - book by Avraham Ravid](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew)
 - [Understanding Deep Learning, by Simon J.D. Prince](https://udlbook.github.io/udlbook/)
 - [Understanding Deep Learning, by Simon J.D. Prince, MIT press](https://udlbook.github.io/udlbook/)
+- [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI, by Shlomo Kashani, Amir Ivry](https://arxiv.org/abs/2201.00650)
 
 Papers and more:
 - [Geometric foundations of Deep Learning](https://towardsdatascience.com/geometric-foundations-of-deep-learning-94cdd45b451d)
