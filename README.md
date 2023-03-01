@@ -13,9 +13,10 @@ Other great educational material:
 - [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI, by Shlomo Kashani, Amir Ivry](https://arxiv.org/abs/2201.00650)
 - [Excellent ML course by Argmax company](https://argmax.ai/ml-course/)
 
-Papers and more:
+Papers and books:
 - [Geometric foundations of Deep Learning](https://towardsdatascience.com/geometric-foundations-of-deep-learning-94cdd45b451d)
 - [Interpretable Machine Learning: Fundamental Principles and 10 Grand Challenges](https://arxiv.org/abs/2103.11251)
+- [Reinforcement Learning, by Sutton and Barto](http://incompleteideas.net/book/RLbook2020.pdf)
 
 Visualizations:
 - [Visualize gradient descent optimization algorithms in Tensorflow](https://github.com/Jaewan-Yun/optimizer-visualization)
